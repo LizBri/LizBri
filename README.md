@@ -15,19 +15,19 @@ solving problems is my passion.
 
 - 👯 front-end：
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-pink?style=plastic&logo=appveyor-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-pink?style=plastic&logo=appveyor-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-pink?style=plastic&logo=appveyor-circle&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=appveyor-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=appveyor-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=appveyor-circle&logo=css3)
 
 - :hammer_and_wrench: use-tool：
 
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-circle&logo=VSCode) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-circle&logo=figma)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=plastic&logo=appveyor-circle&logo=VSCode) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=appveyor-circle&logo=markdown) ![Figma](https://img.shields.io/badge/-Figma-black?style=plastic&logo=appveyor-circle&logo=figma)
 
 - ⚙️ om：
 
-![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![Mac](https://img.shields.io/badge/-Mac-black?style=flat-circle&logo=apple) ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux) 
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=appveyor-circle&logo=git) ![Mac](https://img.shields.io/badge/-Mac-black?style=plastic&logo=appveyor-circle&logo=apple) ![Linux](https://img.shields.io/badge/-Linux-black?style=plastic&logo=appveyor-circle&logo=Linux) 
 
 - 🌱 learning：
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=React)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=plastic&logo=appveyor-circle&logo=Nodejs) ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=appveyor-circle&logo=React)
 
   
 

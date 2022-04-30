@@ -1,6 +1,6 @@
 <img width="550" align="right" src="https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47pjbu5vkhm2clt9m6m4lnphl70oh0vak0s5hocyrr&rid=giphy.gif&ct=g">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lizbri&show_icons=true&theme=cobalt"></>
-<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lizbri&show_icons=true&theme=cobalt">
+
 ### Hi there 👋, my name is Elizabeth
 #### but everybody calls me Liz
 I'm starting my journey in Front-end development and it's been amazing. It is not only solving problems but also sharing and working together  

@@ -15,8 +15,6 @@ Can problem solving be a passion? I think so :heart:
 <h4>
 :coffee: Let's talk
 
-<img width="150px" align="left" src="https://user-images.githubusercontent.com/62104370/166118270-55df796c-fc6c-4877-8559-780c57231dfb.gif">
-
 <a href="mailto:bringas.liza@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="20px" alt="mail">
 </a> <a href="https://www.linkedin.com/in/elizabeth-bringas/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="20px" alt="LinkedIn">
 </a> 
